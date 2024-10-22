@@ -1,0 +1,10 @@
+
+.con{
+    background-color: #f3f1ec;
+    min-height: 80vh;
+    max-height: max-content;
+    margin: 4vw;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}

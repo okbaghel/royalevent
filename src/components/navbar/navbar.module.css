@@ -1,0 +1,36 @@
+.navcon1{
+    background-color: #f3f1ec;
+    /* background-color: #c16f35 ; */
+    /* color: white; */
+    color:#808369;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: small;
+    width: max-content;
+    border-radius: 20px;
+    margin-top: 10px;
+    
+    
+    
+}
+.circle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20vw;
+    height: 20vh;
+    border-radius: 100%;
+    background-color: white;
+    color: white;
+   z-index: 50;
+}
+
+.navcon21{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
